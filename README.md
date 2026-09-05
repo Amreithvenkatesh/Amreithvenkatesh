@@ -5,4 +5,4 @@
 [![SKILLS](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
 
 <b>TOOLS/TECHNOLOGIES</b> <br>
-[![SKILLS](https://skillicons.dev/icons?i=nodejs,npm,react)](https://skillicons.dev)
+[![SKILLS](https://skillicons.dev/icons?i=nodejs,npm,react,angular)](https://skillicons.dev)
